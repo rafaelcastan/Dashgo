@@ -16,7 +16,7 @@ Since the login page is static, and don't do anything, to access dashboard and u
 
 ### /users
 
-![uses-list-page](https://i.ibb.co/2Yn74t6/Captura-de-tela-de-2022-01-05-13-55-54.png
+![uses-list-page](https://i.ibb.co/2Yn74t6/Captura-de-tela-de-2022-01-05-13-55-54.png)
 
 
 - Prerequisites
