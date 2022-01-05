@@ -1,4 +1,4 @@
-This is a project created by Rocketseat, using React and Next, in this application we have developed a dashboard, user list and login page.
+This is a project created by Rocketseat, using NextJs, in this application we have developed a dashboard, user list and login page.
 
 The main objective for this app development was to learn about chakra-ui, data fetching and cache local using React Query.
 
